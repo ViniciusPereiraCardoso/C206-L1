@@ -1,2 +1,2 @@
-# C206---L1
+# C206-L1
 Laboratório de PO
